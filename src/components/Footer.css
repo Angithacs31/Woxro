@@ -1,0 +1,14 @@
+.footer
+    {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color:#CDB9AB; /* Dark brown */
+        color: #331707; /* Light beige */
+        font-family: 'Serif';
+        padding: 0 20px;
+        position: relative;
+        overflow: hidden;
+    }
