@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css';
-// import React, { useState } from 'react'
+
 
 export const Navbar = () => {
   return (
